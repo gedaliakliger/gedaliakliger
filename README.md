@@ -14,11 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Google Cloud Platform (BigQuery, Data Form, Workflow, Cloud Run, Postgres), Microsoft Power Platform (Power BI, Power Automate, Power Apps, Dataverse), MS SQL Server, SSIS, and Oracle BI (OBIEE, OBI Publisher, Warehouse Builder).
-- 🌱 I’m currently learning typescript, pulumi, temporal, MongoDB.
-- 👯 I’m looking to collaborate on exciting projects involving Google Cloud Platform, Microsoft Power Platform, data analytics, and business intelligence.
-- 🤔 I’m looking for help with advancing knowledge in ETL processes, BI tools, and cloud technologies.
-- 💬 Ask me about Google Cloud Platform, Microsoft Power Platform, Oracle BI, ETL, databases, BI tools, low code development, ERP systems, and documentation tools.
-- 📫 How to reach me: Email me at @gmail.com or connect on LinkedIn https://linkedin.com/
-- 😄 Pronouns: He/Hack/Byte/Bro <!--she/shell/data/diva-->
+- 🔭 I’m working on
+  - Databases <sup>2010+</sup>
+    - MS SQL Server / MySQL / Postgres / Oracle
+  - Google Cloud Platform <sup>2022+</sup>
+    - BigQuery / Data Form / Workflow / CloudRun / CloudSQL / Postgres
+  - Microsoft Power Platform <sup>2020-2022</sup>
+    - Power BI / Power Automate / Power Apps / Dataverse 
+  - Oracle BI <sup>2014-2020</sup>
+    - OBIEE / OBI Publisher / Warehouse Builder
+- 🌱 I’m currently learning
+  - Typescript / Pulumi / Temporal / MongoDB.
+- 👯 I’m looking to collaborate on exciting projects involving
+  - Google Cloud Platform / Microsoft Power Platform / data analytics / business intelligence.
+- 🤔 I’m looking for help with advancing knowledge in
+  - ETL processes / BI tools / cloud technologies.
+- 💬 Ask me about
+  - Google Cloud Platform / Microsoft Power Platform / Oracle BI / ETL / databases / BI tools / low code development / ERP systems / documentation tools.
+- 📫 How to reach me:
+  - You can send me a message via a console of your operating system:
+    - ```curl -X POST https://slack.metalab.ml/ -F "text=[put_your_message_here]" ``` 
+- 😄 Pronouns: He/Hack || Byte/Bro <!--she/shell/data/diva-->
 - ⚡ Fun fact: I can mentally add up the prices of multiple items in a shopping cart faster than a cashier can scan them.
