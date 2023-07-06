@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about
   - Google Cloud Platform / Microsoft Power Platform / Oracle BI / ETL / databases / BI tools / low code development / ERP systems / documentation tools.
 - 📫 How to reach me:
-  - You can send me a message via a console of your operating system:
-    - ```curl -X POST https://slack.metalab.ml/ -F "text=[put_your_message_here]" ``` 
+  - You can send me a message via a console of your operating system (I will receive it in my Slack):
+    - ```curl slack.metalab.ml -F text="[Enter your custom message here within double quotes]"``` 
 - 😄 Pronouns: He/Hack || Byte/Bro <!--she/shell/data/diva-->
 - ⚡ Fun fact: I can mentally add up the prices of multiple items in a shopping cart faster than a cashier can scan them.
