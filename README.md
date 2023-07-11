@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning
   - Typescript / Pulumi / Temporal / MongoDB.
 - 👯 I’m looking to collaborate on exciting projects involving
-  - Google Cloud Platform / Microsoft Power Platform / data analytics / business intelligence.
+  - Google Cloud Platform / Microsoft Power Platform / Data Analytics / Business Intelligence.
 - 🤔 I’m looking for help with advancing knowledge in
-  - ETL processes / BI tools / cloud technologies.
+  - ETL processes / BI tools / Cloud Technologies.
 - 💬 Ask me about
-  - Google Cloud Platform / Microsoft Power Platform / Oracle BI / ETL / databases / BI tools / low code development / ERP systems / documentation tools.
+  - Google Cloud Platform / Microsoft Power Platform / Oracle BI / ETL / databases / BI tools / Low Code Development / ERP Systems / Documentation Tools.
 - 📫 How to reach me:
   - You can send me a message via a console of your operating system (I will receive it in my Slack):
     - ```curl slack.metalab.ml -F text="[Enter your custom message here within double quotes]"``` 
